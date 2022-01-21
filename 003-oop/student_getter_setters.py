@@ -44,3 +44,12 @@ student_one = Student("Charlie", 12, "Computer Science",
 
 student_one.set_student_age(19)
 print(student_one.get_student_age())
+
+
+class Science(Student):
+    def __init__(self, name, age, programme, courses):
+        super().__init__(name, age, programme, courses)
+
+
+sci = Science("Charlie", 12, "Science", ["Programming I"])
+print(sci.get_student_programme())
