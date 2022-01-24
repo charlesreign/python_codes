@@ -1,0 +1,64 @@
+1643029596112	geckodriver	INFO	Listening on 127.0.0.1:49244
+1643029599187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49245" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGlhzpg"
+1643029666256	geckodriver	INFO	Listening on 127.0.0.1:49349
+1643029669434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49350" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVmHceQ"
+1643029669796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVmHceQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49350/devtools/browser/54ea5f2b-250f-4ec3-944c-d79f74584eb5
+1643029671696	Marionette	INFO	Listening on port 49381
+1643029672165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1643029815166	Marionette	INFO	Stopped listening on port 49381
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643042853022	geckodriver	INFO	Listening on 127.0.0.1:56513
+1643042856076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56514" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3KR6lA"
+1643042856879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3KR6lA\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:56514/devtools/browser/94435781-6574-4e32-bad7-d0b2007696cb
+1643042859083	Marionette	INFO	Listening on port 56520
+1643042859245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643042879911	Marionette	INFO	Stopped listening on port 56520
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643044560306	geckodriver	INFO	Listening on 127.0.0.1:50994
+1643044563393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50995" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilem7dkZs"
+1643044563652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilem7dkZs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50995/devtools/browser/bf817c65-92be-4c06-b247-240c2b13c27d
+1643044565438	Marionette	INFO	Listening on port 51003
+1643044565555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://accounts.lambdatest.com/register line 433 > injectedScript, line 6: ReferenceError: getCookie is not defined
+1643045029818	Marionette	INFO	Stopped listening on port 51003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643045215000	geckodriver	INFO	Listening on 127.0.0.1:52007
+1643045218060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52008" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile48bzI4"
+1643045218361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile48bzI4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52008/devtools/browser/5c4b73a2-8663-42ca-8731-909d29d94b12
+1643045220095	Marionette	INFO	Listening on port 52016
+1643045220210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.lambdatest.com/register line 433 > injectedScript, line 6: ReferenceError: getCookie is not defined
+1643045665943	Marionette	INFO	Stopped listening on port 52016
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2ehdbU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52948/devtools/browser/3e376d19-de55-413f-a757-235d304886de
+1643045665943	Marionette	INFO	Listening on port 52955
+1643045666003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.lambdatest.com/register line 433 > injectedScript, line 6: ReferenceError: getCookie is not defined
+1643045831508	Marionette	INFO	Stopped listening on port 52955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
